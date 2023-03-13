@@ -1,0 +1,11 @@
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\bin\Debug\BufeKasaUygulamasi.exe.config
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\bin\Debug\BufeKasaUygulamasi.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\bin\Debug\BufeKasaUygulamasi.pdb
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.Form1.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.Properties.Resources.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BufeKasaUygulamasi\BufeKasaUygulamasi\obj\Debug\BufeKasaUygulamasi.pdb
